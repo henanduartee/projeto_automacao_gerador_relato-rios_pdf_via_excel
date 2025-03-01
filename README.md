@@ -7,6 +7,7 @@ Este projeto gera relatórios mensais em formato PDF a partir de dados em um arq
 - `assets/`: Contém arquivos de layout, estilo e templates.
 - `dados/`: Contém o arquivo Excel com os dados.
 - `output/`: Diretório onde os relatórios gerados serão salvos.
+- `test/`: Contém arquivos para teste da solução.
 - `caminhos.py`: Define os caminhos para os diretórios e arquivos.
 - `formatacao_de_dados.py`: Formata os dados e renderiza o template.
 - `processamento_de_dados.py`: Processa os dados do Excel.
